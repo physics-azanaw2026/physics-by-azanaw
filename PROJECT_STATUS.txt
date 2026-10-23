@@ -1,0 +1,6 @@
+STATUS: Updated Android source package candidate prepared on 2026-10-23.
+- Embedded HTML replaced with Physics_by_Azanaw_Grades9-12_Expanded_Lessons_DRAFT_v1.html.
+- The original project ZIP remains unchanged as a backup.
+- This is a review candidate, NOT a final release. Grade 10-12 expanded lessons have automated browser checks, but teacher/textbook review and physical Samsung phone test remain pending.
+- APK has NOT been compiled in this package. GitHub Actions/CI build and installation test are required.
+- Translation coverage and photo licensing/embedding review remain incomplete.

@@ -1,0 +1,5 @@
+Bundled tested HTML SHA-256: f6f85ff6e92aed08a8395d40078295bf16e411a846f18484155221f4ef46fed7
+Source size: 2280569 bytes
+Inline JavaScript blocks syntax-checked: 2
+Android XML resources parsed successfully.
+Note: No APK compiled in this environment; a GitHub Actions build and device installation test remain required.
